@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://frontend-bootcamp-product-card.netlify.app/)
-- Live Site URL: [Add live site URL here](https://frontend-bootcamp-product-card.netlify.app/)
+- Solution URL: [frontend-bootcamp-product-card.netlify.app](https://frontend-bootcamp-product-card.netlify.app/)
+- Live Site URL: [frontend-bootcamp-product-card.netlify.app](https://frontend-bootcamp-product-card.netlify.app/)
 
 ## My process
 
